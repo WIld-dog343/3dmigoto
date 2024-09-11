@@ -1,0 +1,15 @@
+AetherLumineDullBlade
+ genshin_merge_mods.py
+ merged.ini
+ AetherSwordMod
+ AetherSword.buf
+ AetherSwordHead.ib
+ AetherSwordHeadDiffuse.dds
+ AetherSwordHeadLightMap.dds
+ DISABLEDAetherSword.ini
+ LumineDullBlade
+ DISABLEDDullBlade.ini
+ DullBlade.buf
+ DullBladeHead.ib
+ DullBladeHeadDiffuse.dds
+ DullBladeHeadLightMap.dds
